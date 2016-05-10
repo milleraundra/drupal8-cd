@@ -1,0 +1,6 @@
+name: Review Form Display
+description: Display a form for visitors to add a review to albums
+package: Custom
+
+type: module
+core: 8.x
